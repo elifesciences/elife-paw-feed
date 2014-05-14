@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<journal-title>eLife</journal-title>
+<article-id pub-id-type="manuscript">01481</article-id>
+<article-id pub-id-type="doi">http://dx.doi.org/10.7554/eLife.01481</article-id>
+<subj-group subj-group-type="heading">
+    <subject>Research article</subject>
+</subj-group>
+    <article-title>Cell type-specific and time-dependent light exposure contribute to silencing in neurons expressing Channelrhodopsin-2</article-title>
+<contrib contrib-type="author" id="author-7503" corresp="yes">
+    <name>
+        <surname>Herman</surname>
+        <given-names>Alexander M</given-names>
+        <suffix></suffix>
+    </name>
+    <email>amherman@bcm.edu</email>
+</contrib>
+<history>
+    <date date-type="accepted">
+        <day>18</day>
+        <month>12</month>
+        <year>2013</year>
+    </date>
+    <date date-type="received">
+        <day>5</day>
+        <month>9</month>
+        <year>2013</year>
+    </date>
+</history>
+<custom-meta>
+    <meta-name>PoA</meta-name>
+    <meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+    <meta-name>Corresponding author for proofs</meta-name>
+    <meta-value>author-7503</meta-value>
+</custom-meta>
+<custom-meta>
+    <meta-name>Copy editing requirement</meta-name>
+    <meta-value>2</meta-value>
+</custom-meta>
+ <custom-meta>
+        <meta-name>export-timing</meta-name>
+        <meta-value>Acceptance</meta-value>
+ </custom-meta>
